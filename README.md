@@ -63,8 +63,16 @@ Dibangun dengan Tailwind CSS, nyaman digunakan di desktop maupun mobile.
 
 
 ---
+# 💻 Cara Menggunakan
 
-# 💻 Cara Menjalankan Secara Lokal
+## 🕸️ Live Demo
+
+Tidak perlu instalasi apapun, cukup jalankan via browser melalui link berikut:
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge)](https://ngajiii-ai.netlify.app/)
+
+
+## 💻 Cara Menjalankan Secara Lokal
 
 1. Clone atau download repositori ini ke komputer Anda.
 
@@ -75,6 +83,13 @@ Dibangun dengan Tailwind CSS, nyaman digunakan di desktop maupun mobile.
 2. Buka `index.html` menggunakan browser modern (Chrome/Edge direkomendasikan).
 3. Gunakan **Live Server** (jika menggunakan VS Code) untuk memastikan fitur audio dan mikrofon berjalan lancar tanpa kendala kebijakan origin.
 4. Pastikan izin akses **Microphone** telah diberikan pada browser.
+
+
+## 🔎 Preview
+
+Berikut adalah tampilan dari projek ini, selamat mengaji, semoga bermanfaat.
+
+![Ngajiii AI Preview](assets/preview.png)
 
 
 ---
