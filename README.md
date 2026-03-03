@@ -69,7 +69,7 @@ Dibangun dengan Tailwind CSS, nyaman digunakan di desktop maupun mobile.
 1. Clone atau download repositori ini ke komputer Anda.
 
  ```bash
-   git clone https://github.com/thedremaer911/ngajiii-ai.git
+   git clone https://github.com/theDreamer911/ngajiii-ai.git
  ```
 
 2. Buka `index.html` menggunakan browser modern (Chrome/Edge direkomendasikan).
