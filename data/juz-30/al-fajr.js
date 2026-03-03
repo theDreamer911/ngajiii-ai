@@ -1,0 +1,40 @@
+window.surahModules = window.surahModules || {};
+
+window.surahModules["al-fajr"] = {
+  name: "Al-Fajr",
+  ayat: [
+    { trigger: "wal fajr", text: "وَالْفَجْرِ", audio: "https://everyayah.com/data/Alafasy_64kbps/089001.mp3" },
+    { trigger: "wa layalin ashr", text: "وَلَيَالٍ عَشْرٍ", audio: "https://everyayah.com/data/Alafasy_64kbps/089002.mp3" },
+    { trigger: "wash shaf'i wal watr", text: "وَالشَّفْعِ وَالْوَتْرِ", audio: "https://everyayah.com/data/Alafasy_64kbps/089003.mp3" },
+    { trigger: "wal laili iza yasr", text: "وَاللَّيْلِ إِذَا يَسْرِ", audio: "https://everyayah.com/data/Alafasy_64kbps/089004.mp3" },
+    { trigger: "hal fi zalika qasamul lizi hijr", text: "هَلْ فِي ذَٰلِكَ قَسَمٌ لِّذِي حِجْرٍ", audio: "https://everyayah.com/data/Alafasy_64kbps/089005.mp3" },
+    { trigger: "alam tara kaifa fa'ala rabbuka bi'ad", text: "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِعَادٍ", audio: "https://everyayah.com/data/Alafasy_64kbps/089006.mp3" },
+    { trigger: "iram zatil imad", text: "إِرَمَ ذَاتِ الْعِمَادِ", audio: "https://everyayah.com/data/Alafasy_64kbps/089007.mp3" },
+    { trigger: "allati lam yukhlaq misluha fil bilad", text: "الَّتِي لَمْ يُخْلَقْ مِثْلُهَا فِي الْبِلَادِ", audio: "https://everyayah.com/data/Alafasy_64kbps/089008.mp3" },
+    { trigger: "wa samudal lazina jabus sakhra bil wad", text: "وَثَمُودَ الَّذِينَ جَابُوا الصَّخْرَ بِالْوَادِ", audio: "https://everyayah.com/data/Alafasy_64kbps/089009.mp3" },
+    { trigger: "wa fir'auna zil awtad", text: "وَفِرْعَوْنَ ذِي الْأَوْتَادِ", audio: "https://everyayah.com/data/Alafasy_64kbps/089010.mp3" },
+    { trigger: "allazina taghau fil bilad", text: "الَّذِينَ طَغَوْا فِي الْبِلَادِ", audio: "https://everyayah.com/data/Alafasy_64kbps/089011.mp3" },
+    { trigger: "fa aksaru fihal fasad", text: "فَأَكْثَرُوا فِيهَا الْفَسَادَ", audio: "https://everyayah.com/data/Alafasy_64kbps/089012.mp3" },
+    { trigger: "fasabba alaihim rabbuka sauta azab", text: "فَصَبَّ عَلَيْهِمْ رَبُّكَ سَوْطَ عَذَابٍ", audio: "https://everyayah.com/data/Alafasy_64kbps/089013.mp3" },
+    { trigger: "inna rabbaka لabil mirsad", text: "إِنَّ رَبَّكَ لَبِالْمِرْصَادِ", audio: "https://everyayah.com/data/Alafasy_64kbps/089014.mp3" },
+    { trigger: "fa ammal insanu iza mabtalahu rabbuhu fa akramahu wa na'amahu", text: "فَأَمَّا الْإِنسَانُ إِذَا مَا ابْتَلَاهُ رَبُّهُ فَأَكْرَمَهُ وَنَعَّمَهُ", audio: "https://everyayah.com/data/Alafasy_64kbps/089015.mp3" },
+    { trigger: "fayaqulu rabbi akraman", text: "فَيَقُولُ رَبِّي أَكْرَمَنِ", audio: "https://everyayah.com/data/Alafasy_64kbps/089016.mp3" },
+    { trigger: "wa amma iza mabtalahu faqadara alaihi rizqahu", text: "وَأَمَّا إِذَا مَا ابْتَلَاهُ فَقَدَرَ عَلَيْهِ رِزْقَهُ", audio: "https://everyayah.com/data/Alafasy_64kbps/089017.mp3" },
+    { trigger: "fayaqulu rabbi ahanan", text: "فَيَقُولُ رَبِّي أَهَانَنِ", audio: "https://everyayah.com/data/Alafasy_64kbps/089018.mp3" },
+    { trigger: "kalla bal la tukrimunal yatim", text: "كَلَّا ۖ بَل لَّا تُكْرِمُونَ الْيَتِيمَ", audio: "https://everyayah.com/data/Alafasy_64kbps/089019.mp3" },
+    { trigger: "wa la tahadduna ala ta'amil miskin", text: "وَلَا تَحَاضُّونَ عَلَىٰ طَعَامِ الْمِسْكِينِ", audio: "https://everyayah.com/data/Alafasy_64kbps/089020.mp3" },
+    { trigger: "wa ta'kulunat turasa aklan lamma", text: "وَتَأْكُلُونَ التُّرَاثَ أَكْلًا لَّمًّا", audio: "https://everyayah.com/data/Alafasy_64kbps/089021.mp3" },
+    { trigger: "wa tuhibbunal mala hubban jamma", text: "وَتُحِبُّونَ الْمَالَ حُبًّا جَمًّا", audio: "https://everyayah.com/data/Alafasy_64kbps/089022.mp3" },
+    { trigger: "kalla iza dukkatil ardu dakkan dakka", text: "كَلَّا إِذَا دُكَّتِ الْأَرْضُ دَكًّا دَكًّا", audio: "https://everyayah.com/data/Alafasy_64kbps/089023.mp3" },
+    { trigger: "wa ja'a rabbuka wal malaku saffan saffa", text: "وَجَاءَ رَبُّكَ وَالْمَلَكُ صَفًّا صَفًّا", audio: "https://everyayah.com/data/Alafasy_64kbps/089024.mp3" },
+    { trigger: "wa ji'a yauma'izim bi jahannam", text: "وَجِيءَ يَوْمَئِذٍ بِجَهَنَّمَ", audio: "https://everyayah.com/data/Alafasy_64kbps/089025.mp3" },
+    { trigger: "yauma'iziy yatazakkarul insanu wa anna lahuz zikra", text: "يَوْمَئِذٍ يَتَذَكَّرُ الْإِنسَانُ وَأَنَّىٰ لَهُ الذِّكْرَىٰ", audio: "https://everyayah.com/data/Alafasy_64kbps/089026.mp3" },
+    { trigger: "yaqulu ya laitani qaddamtu lihayati", text: "يَقُولُ يَا لَيْتَنِي قَدَّمْتُ لِحَيَاتِي", audio: "https://everyayah.com/data/Alafasy_64kbps/089027.mp3" },
+    { trigger: "fayauma'izil la yu'azzibu azabahu ahad", text: "فَيَوْمَئِذٍ لَّا يُعَذِّبُ عَذَابَهُ أَحَدٌ", audio: "https://everyayah.com/data/Alafasy_64kbps/089028.mp3" },
+    { trigger: "wa la yusiqu wasaqahu ahad", text: "وَلَا يُوثِقُ وَثَاقَهُ أَحَدٌ", audio: "https://everyayah.com/data/Alafasy_64kbps/089029.mp3" },
+    { trigger: "ya ayyatuhan nafsul mutma'innah", text: "يَا أَيَّتُهَا النَّفْسُ الْمُطْمَئِنَّةُ", audio: "https://everyayah.com/data/Alafasy_64kbps/089030.mp3" },
+    { trigger: "irji'i ila rabbiki radiyatam mardiyyah", text: "ارْجِعِي إِلَىٰ رَبِّكِ رَاضِيَةً مَّرْضِيَّةً", audio: "https://everyayah.com/data/Alafasy_64kbps/089031.mp3" },
+    { trigger: "fadkhuli fi ibadi", text: "فَادْخُلِي فِي عِبَادِي", audio: "https://everyayah.com/data/Alafasy_64kbps/089032.mp3" },
+    { trigger: "wadkhuli jannati", text: "وَادْخُلِي جَنَّتِي", audio: "https://everyayah.com/data/Alafasy_64kbps/089033.mp3" }
+  ]
+};
